@@ -1,2 +1,2 @@
 # Latihan-Branch
-** ini adalah latihan branch
+ini adalah latihan branch
